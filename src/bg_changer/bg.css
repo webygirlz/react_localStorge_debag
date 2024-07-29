@@ -1,0 +1,57 @@
+.colordiv{
+    background: white;
+    width:540px;
+    height: 30px;
+    padding-top:9px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+.container{
+   
+    text-align: center;
+    margin: 80px;
+    height: 400px;
+    width: 800px;
+    border: 2px solid brown;
+    position: relative;
+    top: 50%;
+    left: 21%;
+}
+.colordiv button:nth-child(1){
+    background:red;
+    margin-right: 10px;
+}
+.colordiv button:nth-child(2){
+    background:blue;
+    margin-right: 10px;
+}
+.colordiv button:nth-child(3){
+    background:green;
+    margin-right: 10px;
+}
+.colordiv button:nth-child(4){
+    background:pink;
+    margin-right: 10px;
+}
+.colordiv button:nth-child(5){
+    background:white;
+    margin-right: 10px;
+}
+.colordiv button:nth-child(6){
+    background:orange;
+    margin-right: 10px;
+}
+.colordiv button:nth-child(7){
+    background:yellow;
+    margin-right: 10px;
+}
+.colordiv button:nth-child(8){
+    background:violet;
+    margin-right: 10px;
+}
+.colordiv button:nth-child(9){
+    background:silver;
+    margin-right: 10px;
+}
